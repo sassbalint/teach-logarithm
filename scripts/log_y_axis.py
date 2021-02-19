@@ -2,13 +2,9 @@
 Display a demo graph with log y axis for teaching logarithm.
 """
 
-import argparse
-import sys
 from collections import defaultdict
 
-import numpy as np
 import pandas as pd
-import matplotlib
 import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter
 

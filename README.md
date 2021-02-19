@@ -4,7 +4,7 @@ Mire jó a logaritmikus tengely?
 
 Arra, hogy jobban látszódjanak a dolgok a grafikonon,
 vagyishát egyáltalán _bármi_ látszódjon,
-a több/sok nagyságrendet ölelnek fel az értékek.
+ha több/sok nagyságrendet ölelnek fel az értékek.
 
 Tipikusan ilyen több nagyságrendet felölelő adat a keresztnevek gyakorisága.
 
